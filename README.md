@@ -1,6 +1,7 @@
 # object-neural-network
-Object oriented neural network library based on FANN
-Basically this library is exactly the same as FANN with object implementation.
+Object oriented neural network library based on FANN.
+Basically this library is exactly the same as FANN, with object implementation.
+https://github.com/libfann/fann
 
 ## Getting Started
 You need the FANN library installed on your computer in order to use object-neural-network.

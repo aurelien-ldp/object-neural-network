@@ -6,7 +6,7 @@ SRC		=	src/Network.cpp
 
 OBJ 	=	$(SRC:.cpp=.o)
 
-CXXFLAGS=	-c -fpic
+CXXFLAGS=	-c -fpic -I ./include
 
 LDFLAGS	=	-lfann
 
